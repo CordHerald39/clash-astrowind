@@ -30,3 +30,5 @@ draft: false
 ## 来源
 
 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev)与[CMFA](https://github.com/MetaCubeX/ClashMetaForAndroid)项目资料，查阅于 2026-09-30。
+
+进一步阅读：[Clash 日志怎么脱敏：保留错误线索，隐藏订阅凭据](../log-redaction/)。
